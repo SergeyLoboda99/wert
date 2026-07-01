@@ -8,3 +8,7 @@
 [test](test.md)
 
 [video](https://youtu.be/ULuYFX2M8S4)
+
+| Заголовок |
+|-----------|
+| text      |
