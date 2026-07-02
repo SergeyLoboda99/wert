@@ -1,1 +1,1 @@
-![flerkin](https://images.techinsider.ru/upload/img_cache/0d5/0d5d5be56b53698ce3db3c2188beeab1_cropped_666x425.jpg)
+![flerkin](![kot.jpg](../../%D0%97%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8/kot.jpg)
