@@ -1,0 +1,13 @@
+## На этой странице я буду писать всякую фигню.
+
+### И вставлять картинки,ссылки.
+[Google][] ссылка на главную страницу Google
+
+[Google]: http://google.com/
+[Картинка][] Можно посмотреть картинку
+
+[Картинка]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM7lZd-fYHLPpXqM4bYuiKc23SRLN2HILCjU6QxfhazT5i5oTVyHSSD_UF&s=10
+
+#### Хотя можно и тут посмотреть
+
+![img_1.png](img_1.png)
