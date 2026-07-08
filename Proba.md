@@ -14,3 +14,10 @@
 
 ![image 1.png](https://github.com/SergeyLoboda99/wert/blob/main/img_1.png)
 
+ | пока непонятно |
+ |----------------|
+ | sss            |
+```
+qqqqqqq
+wwwwwww
+
