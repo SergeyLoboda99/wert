@@ -12,7 +12,7 @@
 
 жаба-лягушка 😎
 
-![image 1.png](https://github.com/SergeyLoboda99/wert/blob/main/img_1.png)
+![img.png](img.png)
 
  | пока непонятно |
  |----------------|
