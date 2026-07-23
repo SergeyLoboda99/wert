@@ -2,7 +2,7 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Название страницы</title>
+    <title> Название страницы </title>
 </head>
 <body>
     <h1>Здрасьте!</h1>
